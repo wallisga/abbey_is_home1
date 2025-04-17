@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [v1.0.0] - 2025-04-17
+### Maintenance
+- Add debug (19be23c)
+
+### Other Changes
+- Initial commit (b0c47bf)
+
+
+
 ### Added
 - Initial project structure
 
