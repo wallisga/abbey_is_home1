@@ -26,7 +26,7 @@ def main(args=None):
     
     # Add your code here
     print("Hello from abbey_is_home1!")
-    
+    print(args)
     return 0
 
 
